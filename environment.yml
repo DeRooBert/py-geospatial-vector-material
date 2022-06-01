@@ -1,7 +1,11 @@
-name: py-geospatial-2020
+name: py-geospatial
 channels:
     - conda-forge
 dependencies:
+    - numpy
+    - shapely
+    - fiona
+    - matplotlib
     - geopandas
     - pygeos
     - pyproj
@@ -14,3 +18,4 @@ dependencies:
     - osmnx
     - networkx
     - ipympl
+    

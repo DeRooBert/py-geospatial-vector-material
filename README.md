@@ -52,7 +52,7 @@ This will take a few moments to download and install all the packages. You may b
 Enable the environment:
 
 ```
-conda activate py-geospatial-2020
+conda activate py-geospatial
 ```
 
 Run the test script from the workshop files:
