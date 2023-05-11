@@ -18,4 +18,5 @@ dependencies:
     - osmnx
     - networkx
     - ipympl
+    - openeo
     
